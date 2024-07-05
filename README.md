@@ -15,4 +15,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=fjrRA&style=for-the-badge">
+</a>
