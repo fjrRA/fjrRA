@@ -15,5 +15,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-<br />
-[Profile Views](https://komarev.com/ghpvc/?username=fjrRA)
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
