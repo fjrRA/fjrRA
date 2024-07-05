@@ -14,3 +14,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fjrRA&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+<br />
+![](https://komarev.com/ghpvc/?username=fjrRA)
