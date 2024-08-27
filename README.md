@@ -3,7 +3,7 @@
 Perkenalkan, saya **Fajar Rahmana Akbar**.<br>
 
 Saya **Mahasiswa** di [Universitas Muhammadiyah Purwokerto](https://ump.ac.id/), jurusan [Teknik Informatika](https://informatika.ump.ac.id/).<br> 
-Saya adalah partisipan _**MSIB Studi Independen batch 6**_ dengan mitra [Dicoding](https://www.dicoding.com/) pada bagian _**Pengembang Front-End Web dan Back-End.**_<br>
+Saya adalah lulusan partisipan _**MSIB Studi Independen batch 6**_ dengan mitra [Dicoding](https://www.dicoding.com/) pada bagian _**Pengembang Front-End Web dan Back-End.**_<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fajar-rahmana-akbar/). Terima kasih...
 
